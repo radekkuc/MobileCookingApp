@@ -21,8 +21,8 @@ Welcome to the **Cooking App**, an Android application that helps users find rec
 ![image](https://github.com/user-attachments/assets/a3d21ce3-abe4-4b22-92a7-b4eb2d17a0cb)
 
 ### **2️⃣ Recipe List**
-![Recipe List](![image](https://github.com/user-attachments/assets/f24028ae-3df0-4a57-85bc-82d05c255379)
-)
+![image](https://github.com/user-attachments/assets/f24028ae-3df0-4a57-85bc-82d05c255379)
+
 
 ### **3️⃣ Recipe Details**
 ![Recipe Details](![image](https://github.com/user-attachments/assets/fab6cbd3-84b7-48cf-a24a-eee4d51ff931)
