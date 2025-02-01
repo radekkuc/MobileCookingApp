@@ -29,3 +29,21 @@ Welcome to the **Cooking App**, an Android application that helps users find rec
 
 
 ---
+
+## 🚀 Getting Started
+
+### 🔹 1. Clone the Repository
+```sh
+git clone https://github.com/yourusername/cooking-app.git
+cd cooking-app
+🔹 2. Open in Android Studio
+Open Android Studio
+Select "Open an Existing Project" and choose this folder
+🔹 3. Set Up API Key
+This app uses the Spoonacular API to fetch recipes.
+1. Get your API key from Spoonacular.
+2. Change Api key in code:
+🔹 4. Run the App
+Connect an Android Emulator or physical device.
+Click Run ▶️ in Android Studio.
+
