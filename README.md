@@ -25,7 +25,7 @@ Welcome to the **Cooking App**, an Android application that helps users find rec
 
 
 ### **3️⃣ Recipe Details**
-![Recipe Details](![image](https://github.com/user-attachments/assets/fab6cbd3-84b7-48cf-a24a-eee4d51ff931)
-)
+![image](https://github.com/user-attachments/assets/fab6cbd3-84b7-48cf-a24a-eee4d51ff931)
+
 
 ---
