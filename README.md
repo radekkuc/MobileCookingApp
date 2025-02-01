@@ -14,3 +14,16 @@ Welcome to the **Cooking App**, an Android application that helps users find rec
 ✅ **Easy Navigation with Fragments** – Switch between screens seamlessly.  
 
 ---
+
+## 📸 Screenshots
+
+### **1️⃣ Home Screen**
+![Home Screen](paste your image here)
+
+### **2️⃣ Recipe List**
+![Recipe List](paste your image here)
+
+### **3️⃣ Recipe Details**
+![Recipe Details](paste your image here)
+
+---
